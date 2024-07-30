@@ -85,3 +85,6 @@ GitHub.sublime-settings
 
 # cache
 *.rdb
+
+# test file
+_test.py
